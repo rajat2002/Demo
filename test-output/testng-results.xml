@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="75791" started-at="2019-05-18T10:54:35Z" finished-at="2019-05-18T10:55:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="75791" started-at="2019-05-18T10:54:35Z" finished-at="2019-05-18T10:55:51Z">
+      <class name="Academy.ScrollUntillElement">
+        <test-method status="PASS" signature="initial()[pri:0, instance:Academy.ScrollUntillElement@6a078481]" name="initial" is-config="true" duration-ms="74388" started-at="2019-05-18T16:24:35Z" finished-at="2019-05-18T16:25:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initial -->
+        <test-method status="PASS" signature="intializer()[pri:0, instance:Academy.ScrollUntillElement@6a078481]" name="intializer" duration-ms="1293" started-at="2019-05-18T16:25:50Z" finished-at="2019-05-18T16:25:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intializer -->
+      </class> <!-- Academy.ScrollUntillElement -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
